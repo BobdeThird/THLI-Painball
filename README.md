@@ -10,6 +10,7 @@ Paintball is a team vs team simulated board game (grid of cells). Each team cons
 ## Tournament Rules
 * 10 bots on each team
 * 5 minute simulations at max speed
+* Only 1 .java file submitted, containing 1 bot
 
 ### The Following are summarized rules. More in depth explanations are available within the code. 
 
@@ -49,5 +50,7 @@ Friendly fire is on as well.
 
 ## Extra information
 Add your bot in the PaintballMain.java file, in the reset function. Make sure to change the array sizes of the teams accordingly <br />
+
 Refer to "Useful methods and their locations.docx" for helpful information to code your bot <br />
+
 Demo link: 
