@@ -36,6 +36,7 @@ Friendly fire is on as well.
 * try to make sure your bot does not throw exceptions or cause an infinite loop
 * your bots can communicate with each other to know what to do! (ex: keep track of how many bots have been initialized so far so the current bot can decide what role (base charger/defender/killer) it would act as ) (hint: static variables) 
 * have fun :D
+* KEEP IN MIND, YOU CAN ONLY SUBMIT 1 JAVA FILE. So if you want bots to do multiple roles, you can try using the communicating between your bots to assign roles
 
 ## Extra information
 Refer to "Useful methods and their locations.docx" for helpful information to code your bot <br />
