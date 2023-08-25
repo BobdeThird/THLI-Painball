@@ -11,6 +11,7 @@ Paintball is a team vs team simulated board game (grid of cells). Each team cons
 * 10 bots on each team
 * 5 minute simulations at max speed
 * Only 1 .java file submitted, containing 1 bot
+* WHichever team wins more points with a difference >2.5% is considered a win. Difference between scores <= 2.5% are considered ties
 
 ### The Following are summarized rules. More in depth explanations are available within the code. 
 
