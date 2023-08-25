@@ -38,5 +38,5 @@ Friendly fire is on as well.
 * have fun :D
 
 ## Extra information
-Refer to "Useful methods and their locations.docx" for helpful information to code your bot
+Refer to "Useful methods and their locations.docx" for helpful information to code your bot <br />
 Demo link: 
