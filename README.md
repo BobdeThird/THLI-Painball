@@ -54,4 +54,4 @@ Add your bot in the PaintballMain.java file, in the reset function. Make sure to
 
 Refer to "Useful methods and their locations.docx" for helpful information to code your bot <br />
 
-Demo link: 
+Demos link: https://drive.google.com/drive/folders/1WyadDOcEt1OmlF9q73dp1Rdr77CP5jIm?usp=sharing
